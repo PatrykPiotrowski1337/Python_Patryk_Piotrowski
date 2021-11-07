@@ -1,0 +1,2 @@
+# Python_Patryk_Piotrowski
+Zajęcia Zaawansowane programowanie
